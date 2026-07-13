@@ -1,2 +1,2 @@
 # hugerte-website
-A small website for HugeRTE, created with Bootstrap.
+A website for HugeRTE.
